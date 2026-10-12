@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Release\net8.0-windows\win-x64\LanArena.exe
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Release\net8.0-windows\win-x64\LanArena.deps.json
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Release\net8.0-windows\win-x64\LanArena.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Release\net8.0-windows\win-x64\LanArena.dll
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Release\net8.0-windows\win-x64\LanArena.pdb
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Release\net8.0-windows\win-x64\LanArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Release\net8.0-windows\win-x64\LanArena.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Release\net8.0-windows\win-x64\LanArena.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Release\net8.0-windows\win-x64\LanArena.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Release\net8.0-windows\win-x64\LanArena.dll
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Release\net8.0-windows\win-x64\refint\LanArena.dll
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Release\net8.0-windows\win-x64\LanArena.pdb
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Release\net8.0-windows\win-x64\LanArena.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Release\net8.0-windows\win-x64\ref\LanArena.dll

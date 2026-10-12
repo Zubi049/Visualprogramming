@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Debug\net8.0-windows\LanArena.exe
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Debug\net8.0-windows\LanArena.deps.json
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Debug\net8.0-windows\LanArena.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Debug\net8.0-windows\LanArena.dll
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\bin\Debug\net8.0-windows\LanArena.pdb
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Debug\net8.0-windows\LanArena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Debug\net8.0-windows\LanArena.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Debug\net8.0-windows\LanArena.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Debug\net8.0-windows\LanArena.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Debug\net8.0-windows\LanArena.dll
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Debug\net8.0-windows\refint\LanArena.dll
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Debug\net8.0-windows\LanArena.pdb
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Debug\net8.0-windows\LanArena.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\LanArena\LanArena\obj\Debug\net8.0-windows\ref\LanArena.dll
